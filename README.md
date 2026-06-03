@@ -1,4 +1,4 @@
-💫 About Me
+# 💫 About Me
 
 Hi, I'm Dhreeti Kumar Sahoo, a Software Engineer passionate about building scalable web applications and solving real-world problems through technology.
 
@@ -15,33 +15,23 @@ Email: sahoodhreetikumar@gmail.com
 
 Portfolio: [Dhreeti-Kumar-Sahoo](https://dhreetigithub3.github.io/Dhreeti-Kumar-Sahoo/)
 
-💻 Tech Stack
-Languages
 
-Java • Python • JavaScript • SQL
+# 💻 Tech Stack
+Languages: Java • Python • JavaScript • SQL
 
-Backend
+Backend: Spring Boot • Spring MVC • Spring Security • REST APIs • JWT
 
-Spring Boot • Spring MVC • Spring Security • REST APIs • JWT
+Frontend: HTML5 • CSS3 • JavaScript • React (Basics)
 
-Frontend
+Databases: MySQL • MongoDB
 
-HTML5 • CSS3 • JavaScript • React (Basics)
+Testing: Selenium WebDriver • TestNG • Postman
 
-Databases
+Tools: Git • GitHub • Maven • VS Code • IntelliJ IDEA • Jira
 
-MySQL • MongoDB
 
-Testing
-
-Selenium WebDriver • TestNG • Postman
-
-Tools
-
-Git • GitHub • Maven • VS Code • IntelliJ IDEA • Jira
-
-🚀 Featured Projects
-RetailHub – E-Commerce Platform
+# 🚀 Featured Projects
+# RetailHub – E-Commerce Platform
 
 Tech Stack: Java, Spring Boot, Spring Security, JWT, MySQL, HTML, CSS, JavaScript
 
@@ -54,7 +44,8 @@ Designed RESTful APIs and managed MySQL databases.
 
 🔗 Repository: https://github.com/dhreetigithub3/RetailHub
 
-Education Management System
+
+# Education Management System
 
 Tech Stack: Java, Spring MVC, MySQL, HTML, CSS, JSP
 
@@ -62,7 +53,9 @@ Developed a web-based education management system.
 Implemented student, teacher, and course management modules.
 Built CRUD functionalities and integrated MySQL databases.
 Followed MVC architecture for scalable application development.
-Eatero – Food Ordering Application
+
+
+# Eatero – Food Ordering Application
 
 Tech Stack: Python, Django, HTML, CSS, JavaScript, SQLite/MySQL
 
@@ -76,7 +69,7 @@ Utilized Django ORM for efficient database operations.
 ![](https://streak-stats.demolab.com/?user=dhreetigithub3&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=dhreetigithub3&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-🌱 Currently Learning
+# 🌱 Currently Learning
 Advanced Spring Boot
 React
 Microservices
