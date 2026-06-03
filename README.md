@@ -9,8 +9,11 @@ Hi, I'm Dhreeti Kumar Sahoo, a Software Engineer passionate about building scala
 🚀 Seeking opportunities as a Java Developer or Software Engineer
 🌐 Connect With Me
 LinkedIn: https://linkedin.com/in/dhreeti-kumar-sahoo
+
 Email: sahoodhreetikumar@gmail.com
-Portfolio: https://your-portfolio-link
+
+Portfolio: [Dhreeti-Kumar-Sahoo](https://dhreetigithub3.github.io/Dhreeti-Kumar-Sahoo/)
+
 💻 Tech Stack
 Languages
 
