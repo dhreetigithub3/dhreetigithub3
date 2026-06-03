@@ -51,6 +51,18 @@ Designed RESTful APIs and managed MySQL databases.
 🔗 Repository: https://github.com/dhreetigithub3/RetailHub
 
 
+# Eatero – Food Ordering Application
+
+Tech Stack: Python, Django, HTML, CSS, JavaScript, SQLite/MySQL
+
+Developed a food ordering web application using Django.
+Implemented restaurant and menu management functionalities.
+Designed responsive user interfaces using HTML, CSS, and JavaScript.
+Utilized Django ORM for efficient database operations.
+
+🔗 Repository: https://github.com/dhreetigithub3/Eatero
+
+
 # Education Management System
 
 Tech Stack: Java, Spring MVC, MySQL, HTML, CSS, JSP
@@ -62,17 +74,6 @@ Followed MVC architecture for scalable application development.
 
 🔗 Repository: https://github.com/dhreetigithub3/ems
 
-
-# Eatero – Food Ordering Application
-
-Tech Stack: Python, Django, HTML, CSS, JavaScript, SQLite/MySQL
-
-Developed a food ordering web application using Django.
-Implemented restaurant and menu management functionalities.
-Designed responsive user interfaces using HTML, CSS, and JavaScript.
-Utilized Django ORM for efficient database operations.
-
-🔗 Repository: https://github.com/dhreetigithub3/Eatero
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=dhreetigithub3&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
