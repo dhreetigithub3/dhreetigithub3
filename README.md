@@ -3,17 +3,13 @@
 Hi, I'm Dhreeti Kumar Sahoo, a Software Engineer passionate about building scalable web applications and solving real-world problems through technology.
 
 💻 Skilled in Java, Spring Boot, Python, MySQL, HTML, CSS, JavaScript, and REST APIs
-
 🔐 Experience with Spring Security, JWT Authentication, and API Integration
-
 🧪 Knowledge of Software Testing using Selenium WebDriver, TestNG, and Postman
-
 🌱 Currently learning Advanced Spring Boot, React, and Microservices
-
 🚀 Seeking opportunities as a Java Developer or Software Engineer
 
 
-🌐 Connect With Me
+# 🌐 Connect With Me
 
 LinkedIn: https://linkedin.com/in/dhreeti-kumar-sahoo
 
