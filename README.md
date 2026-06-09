@@ -89,6 +89,6 @@ Data Structures & Algorithms
 ⭐ Open to collaboration, internships, and full-time Software Engineering opportunities.
 
 ---
-[![](https://komarev.com/ghpvc/?username=dhreetigithub3&icon=0&color=4bc51d)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=dhreetigithub3&icon=flase&color=4bc51d)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
